@@ -1,0 +1,86 @@
+.title-logo{
+	margin-top:20px;
+}
+.jumb{
+	            background:url('images/a1.jpg') no-repeat center center;
+
+}
+@media all{
+.p1pic{
+	width:auto;
+  padding-bottom: 20px;
+}}
+text{
+  text-align: right;
+  white-space:normal;
+  padding-bottom: 20px;
+}
+
+.navbar li { 
+padding-top: 5px;
+font-size: 20px;} 
+body{
+font-family: 'Open Sans', sans-serif;
+position: relative;
+font-weight: bold;
+}
+.navbar-brand{
+  font-family: 'Arima Madurai', cursive;
+	padding-top: 25px;
+	font-size:50px;
+	font-weight: bold;
+	background-color: transparent;
+
+}
+h3,h2{
+	font-weight: bolder;
+}
+@media all{
+.gal{
+	padding-top: 20px;
+  padding-bottom: 10px;
+  height: auto;
+  width:100%;
+}}
+.contact{
+	text-align: center;
+}
+.foot { 
+      background-color: #0275d8;
+      color: #fff;
+      padding-top:10px; 
+  }
+
+
+ .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #000;  /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: white; /*BACKGROUND color for active*/
+background-color: #0275d8;
+}
+
+  .navbar-default {
+    background-color: #0275d8;
+    border-color: #030033;
+}
+
+  .dropdown-menu > li > a:hover,
+   .dropdown-menu > li > a:focus {
+    color: #262626;
+   text-decoration: none;
+  background-color: #66CCFF;  /*change color of links in drop down here*/
+   }
+
+ .nav > li > a:hover,
+ .nav > li > a:focus {
+    text-decoration: none;
+    background-color: silver; /*Change rollover cell color here*/
+  }
+
+
+  .navbar-default .navbar-nav > li > a {
+   color: white; /*Change active text color here*/
+    }
